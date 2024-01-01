@@ -8,6 +8,8 @@ Custom Weighting System: Songs are weighted according to how frequently and how 
 Prioritized Playback: Play your most listened songs first.
 
 Intelligent Recommendations: Get song suggestions based on your listening preferences using a machine learning algorithm.
+
+Save songs on your LocalStorage: Save the state of your songs even after you close the browser
 # Getting Started
 **make sure you have the follwong requirements:**
 
