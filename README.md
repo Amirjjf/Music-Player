@@ -1,5 +1,5 @@
 # Overview
-This repository houses a unique music player application that streams the top 100 most streamed songs on Spotify. The application, developed using JavaScript and Python, boasts a user-friendly and visually appealing interface. It not only allows you to listen to popular tracks but also personalizes your experience by weighing songs based on your listening habits. Additionally, it leverages machine learning to provide song recommendations.
+This repository houses a unique music player application that streams the top 100 most streamed songs on Spotify. The application, developed using JavaScript and Python, boasts a user-friendly and visually appealing interface. It not only allows you to listen to popular tracks but also personalizes your experience by weighing songs based on your listening habits. Additionally, it leverages machine learning to provide song recommendations. it also recognizes your voice and plays the intended song or pauses the song. you can say "Play Blinding Lights" or "please stop the song"
 # Key features
 Top 100 Spotify Tracks: Instant access to the most streamed songs on Spotify.
 
@@ -10,6 +10,8 @@ Prioritized Playback: Play your most listened songs first.
 Intelligent Recommendations: Get song suggestions based on your listening preferences using a machine learning algorithm.
 
 Save songs on your LocalStorage: Save the state of your songs even after you close the browser
+
+Voice recognition to enhance user experience and playing the desired song or stopping songs just by talking 
 # Getting Started
 **make sure you have the follwong requirements:**
 
