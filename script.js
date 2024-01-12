@@ -441,11 +441,11 @@ window.onload = function() {
 
 
 
-
+/*
 // Fetch data from Spotify API
 async function getAccessToken() {
-    const clientId = '0ee0e8bdc1154047a87c92eac2d931cc'; 
-    const clientSecret = '49a0d901f2d94edb9e39531a1007e442'; 
+    const clientId = ''; 
+    const clientSecret = ''; 
     const token = btoa(`${clientId}:${clientSecret}`);
 
     try {
@@ -509,3 +509,5 @@ function displayPlaylistTracks(items) {
 
 //const playlistId = '5ABHKGoOzxkaa28ttQV9sE';
 //getPlaylistDetails(playlistId);
+
+*/
